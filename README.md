@@ -1,4 +1,4 @@
-# Final_Project
+# OmniCommerce AI 
 About My Project
 Project Overview
 This project is designed to provide an integrated solution for translating text, recommending products, and processing images in a user-friendly interface. It aims to enhance user interaction through predictive analytics and personalized recommendations while ensuring seamless handling of textual and visual data.
